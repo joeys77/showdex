@@ -22,7 +22,8 @@
     "*://play.pokemonshowdown.com/*",
     "*://*.psim.us/*",
     "*://play.radicalred.net/*",
-    "*://nerdcup.duckdns.org/*"
+    "*://nerdcup.duckdns.org/*",
+    "*://play.champsnatdex.dynv6.net/"
   ],
 
   "host_permissions": [
